@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "140508148603",
+    "firebase_url": "https://stepper-e4937.firebaseio.com",
+    "project_id": "stepper-e4937",
+    "storage_bucket": "stepper-e4937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140508148603:android:f5d8f532a148827f",
+        "android_client_info": {
+          "package_name": "com.cherkashyn.stepper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpL6W4jN5zvi2HtJGX8vvWz1Pom9eJ7u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140508148603-ae77t88tl6ugpesiaemv63f59g593c5p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140508148603-grin77vp1vt14oc73vr2pii0956f4693.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cherkashyn.stepper"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
